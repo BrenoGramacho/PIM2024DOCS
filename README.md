@@ -6,7 +6,7 @@
 
 ## Indíce
 
-* [Integrantes](##integrantes)  
+* [Colaboradores](##colaboradores)  
 * [Branches](##branches)  
 * [Projeto](##projeto)  
   * [Visões do Sistema](##visoes-do-sistema)  
@@ -19,7 +19,7 @@
 
 ***
 
-## Integrantes
+## Colaboradores
 
 NOME  |  FUNÇÃO  |  TURMA
 :---  |   :---  |  :---  
@@ -97,6 +97,41 @@ Em construção...
 
 ### Board
 
+Em construção..
+
 ***
 
 ## Instruções
+
+Guia de instruções para avaliação do projeto, considerando os aspectos de desenvolvimento:
+
+###Colunas
+
+Dentro das visões dos projetos, há as **colunas** que segmentam as tabelas, classificando os dados inseridos.
+
+* Title  
+  Esta coluna se trata do titulo da tarefa inserida. Caso clique no nome da tarefa irá abri-lá e apresentar a descrição e comentários da mesma.
+  
+* Status
+  Esta coluna classifica o status de cada tarefa, usando etiquetas para tal.  
+  ![Status](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/a6897ad6-d33c-4703-a82b-fa01ce6bbccb)
+  
+* Assignees
+  Esta coluna é responsável por designar uma tarefa a um colaborador, atribuindo a 1 ou vários.
+  ![Assignees](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/4e76b619-a912-4003-a396-8ce7e2bea816)
+  
+* Iteration
+  Esta coluna apresenta a iteração da qual a tarefa faz parte. Como o método utilizado é o Scrum, é apresentado a Sprint de 1 a 9.
+  
+* Priority
+  Esta coluna coloca niveis de prioridade de forma decrescente dentro das Sprints. Ou seja, a prioridade das tarefas é determinada dentro daquela Sprint.
+  ![Prioridade](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/ba5ff90e-a9f7-469c-b988-56c3cb574f78)
+
+* Estimate
+  
+* Labels
+  
+* In Repository
+  
+* Milestones
+
