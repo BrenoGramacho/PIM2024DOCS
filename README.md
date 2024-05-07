@@ -6,7 +6,7 @@
 
 ## Indíce
 
--[Integrantes]()  
+-[Integrantes](Integrantes)  
 -[Branches]()  
 -[Projeto]()  
 -[]()  
@@ -15,10 +15,10 @@
 
 ## Integrantes
 
-FUNÇÃO  |  NOME
-:---:  |   ---
-Scrum Master  |  [Breno]  
-Product Owner  |  [Marco]  
-Dev Team  |  [Lucas]  
-Dev Team  |  [Isabella]  
-Dev Team  |  [João]  
+NOME  |  FUNÇÃO  |  TURMA
+:---  |   :---  |  :---  
+[Breno]  |  Scrum Master  |  DS3Q48
+[Marco]  |  Product Owner  |  DS3Q48
+[Lucas]  |  Dev Team  |  DS3P48
+[Isabella]  |  Dev Team  |  DS2P48
+[João]  |  Dev Team  |  DS3P48
