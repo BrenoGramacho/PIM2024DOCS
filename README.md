@@ -9,13 +9,13 @@
 * [Integrantes](##integrantes)  
 * [Branches](##branches)  
 * [Projeto](##projeto)  
-  *[Visões do Sistema](##visoes-do-sistema)  
-  *[by Sprint](###by-sprint)
-  *[by Milestone](###by-milestone)
-  *[Weekly Meet](###weekly-meet)
-  *[Board](###board)
+  * [Visões do Sistema](##visoes-do-sistema)  
+  * [by Sprint](###by-sprint)  
+  * [by Milestone](###by-milestone)  
+  * [Weekly Meet](###weekly-meet)  
+  * [Board](###board)  
 * [Instruções](##instruções)  
-* [Glossário](##glossário)
+* [Glossário](##glossário)  
 
 ***
 
