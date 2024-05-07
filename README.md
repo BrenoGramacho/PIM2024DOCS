@@ -30,12 +30,28 @@ NOME  |  FUNÇÃO  |  TURMA
 
 Caso queira ver o repositório de documentos, eles estão dividos em **Branches**, sendo cada uma delas referente a uma **Sprint**.
 
-  * [Sprint1](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-1)  
-  * [Sprint2](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-2)  
-  * [Sprint3](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-3)  
-  * [Sprint4](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-4)  
-  * [Sprint5](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-5)  
-  * [Sprint6](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-6)  
-  * [Sprint7](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-7)  
-  * [Sprint8](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-8)  
-  * [Sprint9](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-9)  
+* [Sprint1](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-1)  
+* [Sprint2](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-2)  
+* [Sprint3](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-3)  
+* [Sprint4](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-4)  
+* [Sprint5](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-5)  
+* [Sprint6](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-6)  
+* [Sprint7](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-7)  
+* [Sprint8](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-8)  
+* [Sprint9](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-9)  
+
+***
+
+## Projeto
+
+Também é possível acompanhar o desenvolvimento pela Area de **Projetos**, tendo como base o **Sprint Backlog**.
+
+[Clique aqui para acessar a Area de Projetos](https://github.com/users/BrenoGramacho/projects/1)
+
+Ao entrar neste espaço verá uma tabela segmentada da seguinte forma:  
+  
+![Cabeçalho do Projeto](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/fca0f51a-42f2-41cf-a91c-1afaa002fc2e)
+Esta imagem caracteriza o cabeçalho do projeto.
+
+Dentro deste cabeçalho há alguns campos:
+
