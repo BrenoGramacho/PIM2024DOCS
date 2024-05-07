@@ -47,11 +47,13 @@ Caso queira ver o repositório de documentos, eles estão dividos em **Branches*
 Também é possível acompanhar o desenvolvimento pela Area de **Projetos**, tendo como base o **Sprint Backlog**.
 
 [Clique aqui para acessar a Area de Projetos](https://github.com/users/BrenoGramacho/projects/1)
+ 
+***
 
-Ao entrar neste espaço verá uma tabela segmentada da seguinte forma:  
-  
-![Cabeçalho do Projeto](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/fca0f51a-42f2-41cf-a91c-1afaa002fc2e)
-Esta imagem caracteriza o cabeçalho do projeto.
+### Visões do sistema
 
-Dentro deste cabeçalho há alguns campos:
+Ao abrir o **Projeto**, é apresentado um cabeçalho com diferentes visões de planejamento do mesmo:
 
+![Cabeçalho do Projeto](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/3f9ce2a8-e8de-4a29-9fdf-4780346eb171)
+
+Dentro deste cabeçalho há a visão [by Sprint](https://github.com/users/BrenoGramacho/projects/1/views/1), [by Milestone](https://github.com/users/BrenoGramacho/projects/1/views/17), [WeeklyMeet](https://github.com/users/BrenoGramacho/projects/1/views/14) e [Board](https://github.com/users/BrenoGramacho/projects/1/views/15).
