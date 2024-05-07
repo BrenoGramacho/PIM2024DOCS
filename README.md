@@ -9,6 +9,11 @@
 * [Integrantes](##integrantes)  
 * [Branches](##branches)  
 * [Projeto](##projeto)  
+  *[Visões do Sistema](##visoes-do-sistema)  
+  *[by Sprint](###by-sprint)
+  *[by Milestone](###by-milestone)
+  *[Weekly Meet](###weekly-meet)
+  *[Board](###board)
 * [Instruções](##instruções)  
 * [Glossário](##glossário)
 
@@ -44,7 +49,7 @@ Caso queira ver o repositório de documentos, eles estão dividos em **Branches*
 
 ## Projeto
 
-Também é possível acompanhar o desenvolvimento pela Area de **Projetos**, tendo como base o **Sprint Backlog**.
+Também é possível acompanhar o desenvolvimento pela Area de **Projetos**.
 
 [Clique aqui para acessar a Area de Projetos](https://github.com/users/BrenoGramacho/projects/1)
  
@@ -54,6 +59,44 @@ Também é possível acompanhar o desenvolvimento pela Area de **Projetos**, ten
 
 Ao abrir o **Projeto**, é apresentado um cabeçalho com diferentes visões de planejamento do mesmo:
 
-![Cabeçalho do Projeto](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/3f9ce2a8-e8de-4a29-9fdf-4780346eb171)
+![Cabeçalho do Projeto](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/5d070f6a-48df-4b31-84d7-f6e746084663)
 
 Dentro deste cabeçalho há a visão [by Sprint](https://github.com/users/BrenoGramacho/projects/1/views/1), [by Milestone](https://github.com/users/BrenoGramacho/projects/1/views/17), [WeeklyMeet](https://github.com/users/BrenoGramacho/projects/1/views/14) e [Board](https://github.com/users/BrenoGramacho/projects/1/views/15).
+
+***
+
+### by Sprint
+
+A visão **by Sprint**, se trata de uma tabela no qual as tarefas estão agrupadas de acordo com as suas respectivas Sprints, tendo como base o Sprint Backlog.
+
+Esta tabela possui diversas colunas, cada um com sua característica e objetivo:
+
+![by Sprint](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/2550c213-e6ec-406c-aac2-c44ce50a600c)
+  
+Estas colunas terão suas funcionalidades explicadas no espaço de [Instruções](##Instruções).
+
+***
+
+### by Milestone
+
+A visão **by Milestone**, se trata de uma tabela no qual as tarefas estão agrupadas de acordo com a classificação de seu Milestone, tendo como base a matéria ou tema que o item se encontra.
+
+Esta tabela possui diversas colunas, cada um com sua característica e objetivo:
+
+![by Milestone](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/9098d7e1-68de-4e45-a63f-49b4f03dc637)
+  
+Estas colunas terão suas funcionalidades explicadas no espaço de [Instruções](##Instruções).
+
+***
+
+### Weekly Meet
+
+Em construção...
+
+***
+
+### Board
+
+***
+
+## Instruções
