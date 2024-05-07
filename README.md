@@ -1,15 +1,24 @@
-***EM CONSTRUÇÃO***
+![LogoLotus](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/ade7424a-23d2-4c09-a780-6125ba12a537)
 
-Este projeto é destinado a criar um sistema de gerenciamento para fazendas urbanas.
+# GRUPO LOTUS
 
-Para fins de avaliação e consulta ao desenvolvimento do projeto:
+***
 
-Todos os documentos poderão ser encontrados nas Branchs respectivas as Sprints destinadas para aquela atividade: https://github.com/BrenoGramacho/PIM2024DOCS/branches
+## Indíce
 
-Para visualizar a Sprint Backlog com todas as atividades do grupo, é necessário acessar este espaço: https://github.com/users/BrenoGramacho/projects/1
+-[Integrantes]()  
+-[Branches]()  
+-[Projeto]()  
+-[]()  
 
-...construindo...
-lblasmdals
+***
 
+## Integrantes
 
- 
+FUNÇÃO  |  NOME
+:---:  |   ---
+Scrum Master  |  [Breno]  
+Product Owner  |  [Marco]  
+Dev Team  |  [Lucas]  
+Dev Team  |  [Isabella]  
+Dev Team  |  [João]  
