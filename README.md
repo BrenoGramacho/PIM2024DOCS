@@ -30,9 +30,12 @@ NOME  |  FUNÇÃO  |  TURMA
 
 Caso queira ver o repositório de documentos, eles estão dividos em **Branches**, sendo cada uma delas referente a uma **Sprint**.
 
-[Sprint1]()  |  [Sprint2]()  |  [Sprint3]()
-***  |  ***  |  ***
-[Sprint4]()  |  [Sprint5]()  |  [Sprint6]()
-***  |  ***  |  ***
-[Sprint7]()  |  [Sprint8]()  |  [Sprint9]()
-
+  * [Sprint1](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-1)  
+  * [Sprint2](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-2)  
+  * [Sprint3](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-3)  
+  * [Sprint4](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-4)  
+  * [Sprint5](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-5)  
+  * [Sprint6](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-6)  
+  * [Sprint7](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-7)  
+  * [Sprint8](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-8)  
+  * [Sprint9](https://github.com/BrenoGramacho/PIM2024DOCS/tree/Sprint-9)  
