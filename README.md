@@ -14,7 +14,8 @@
   * [by Milestone](###by-milestone)  
   * [Weekly Meet](###weekly-meet)  
   * [Board](###board)  
-* [Instruções](##instruções)  
+* [Instruções](##instruções)
+  * [Colunas](###colunas)
 * [Glossário](##glossário)  
 
 ***
@@ -142,5 +143,10 @@ Dentro das visões dos projetos, há as **colunas** que segmentam as tabelas, cl
 * Milestones
   Esta coluna é respectiva as Milestones, são 'Marcos' responsáveis por agrupar um conjunto de tarefas a um tema ou matéria.    
   
-  É possível acessar as Milestones ao clicar sobre elas, ou então acessar a biblioteca de Milestones [clicando aqui](https://github.com/BrenoGramacho/PIM2024DOCS/milestones)  
+  É possível acessar as Milestones ao clicar sobre elas, ou então acessar a biblioteca de Milestones [clicando aqui](https://github.com/BrenoGramacho/PIM2024DOCS/milestones)
+
+***
+
+##Colunas  
+Em construção...
 
