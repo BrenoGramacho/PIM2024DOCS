@@ -16,7 +16,7 @@
   * [Board](https://github.com/BrenoGramacho/PIM2024DOCS?tab=readme-ov-file#board)  
 * [Instruções](https://github.com/BrenoGramacho/PIM2024DOCS?tab=readme-ov-file#instru%C3%A7%C3%B5es)
   * [Colunas](https://github.com/BrenoGramacho/PIM2024DOCS?tab=readme-ov-file#colunas)
-* [Glossário]()  
+* [Glossário](https://github.com/BrenoGramacho/PIM2024DOCS?tab=readme-ov-file#gloss%C3%A1rio)  
 
 ***
 
@@ -110,37 +110,37 @@ Guia de instruções para avaliação do projeto, considerando os aspectos de de
 
 Dentro das visões dos projetos, há as **colunas** que segmentam as tabelas, classificando os dados inseridos.
 
-* Title    
+* **Title:**    
   Esta coluna se trata do titulo da tarefa inserida. Caso clique no nome da tarefa irá abri-lá e apresentar a descrição e comentários da mesma.  
    
-* Status  
+* **Status:**  
   Esta coluna classifica o status de cada tarefa, usando etiquetas para tal.    
   ![Status](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/a6897ad6-d33c-4703-a82b-fa01ce6bbccb)  
     
-* Assignees  
+* **Assignees:**  
   Esta coluna é responsável por designar uma tarefa a um colaborador, atribuindo a 1 ou vários.  
   ![Assignees](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/4e76b619-a912-4003-a396-8ce7e2bea816)  
     
-* Iteration  
+* **Iteration:**  
   Esta coluna apresenta a iteração da qual a tarefa faz parte. Como o método utilizado é o Scrum, é apresentado a Sprint de 1 a 9.  
     
-* Priority  
+* **Priority:**  
   Esta coluna coloca niveis de prioridade de forma decrescente dentro das Sprints. Ou seja, a prioridade das tarefas é determinada dentro daquela Sprint.  
   
   ![Prioridade](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/ba5ff90e-a9f7-469c-b988-56c3cb574f78)   
 
-* Estimate  
+* **Estimate:**  
   Este coluna apresenta a estimativa de tempo em horas daquela atividade.  
     
-* Labels  
+* **Labels:**  
   Esta coluna irá etiquetar as atividades com lapelas, referente a status pontuais destes itens.    
   
   ![Labels](https://github.com/BrenoGramacho/PIM2024DOCS/assets/165579352/89fa89bc-88cf-4617-a348-534c51723102)  
     
-* In Repository  
+* **In Repository:**  
   Esta coluna é a mais importante para a integração do **Projeto** com o **Repositório**  
     
-* Milestones  
+* **Milestones:**  
   Esta coluna é respectiva as Milestones, são 'Marcos' responsáveis por agrupar um conjunto de tarefas a um tema ou matéria.      
     
   É possível acessar as Milestones ao clicar sobre elas, ou então acessar a biblioteca de Milestones [clicando aqui](https://github.com/BrenoGramacho/PIM2024DOCS/milestones)  
